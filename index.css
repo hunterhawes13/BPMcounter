@@ -1,0 +1,62 @@
+body {
+	background-color: #90ee90;
+	color: white;
+	font-family: “Century Gothic”, CenturyGothic, AppleGothic, sans-serif;
+		text-align: center;
+}
+
+#instructions {
+
+}
+
+#bpm {
+font-size: 72px;
+  text-shadow:
+    0 1px #808d93,
+    -1px 0 #cdd2d5,
+    -1px 2px #808d93,
+    -2px 1px #cdd2d5,
+    -2px 3px #808d93,
+    -3px 2px #cdd2d5,
+    -3px 4px #808d93,
+    -4px 3px #cdd2d5,
+    -4px 5px #808d93,
+    -5px 4px #cdd2d5,
+    -5px 6px #808d93,
+    -6px 5px #cdd2d5,
+    -6px 7px #808d93,
+    -7px 6px #cdd2d5,
+    -7px 8px #808d93,
+    -8px 7px #cdd2d5;
+
+}
+
+button {
+	margin-top: 5px;
+	margin-bottom: 5px;
+  background: #d6d6d6;
+  background-image: -webkit-linear-gradient(top, #d6d6d6, #00ff99);
+  background-image: -moz-linear-gradient(top, #d6d6d6, #00ff99);
+  background-image: -ms-linear-gradient(top, #d6d6d6, #00ff99);
+  background-image: -o-linear-gradient(top, #d6d6d6, #00ff99);
+  background-image: linear-gradient(to bottom, #d6d6d6, #00ff99);
+  -webkit-border-radius: 46;
+  -moz-border-radius: 46;
+  border-radius: 46px;
+  color: #ffffff;
+  font-size: 24px;
+  padding: 10px 20px 10px 20px;
+  border: solid #ffffff 4px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #072e47;
+  background-image: -webkit-linear-gradient(top, #072e47, #1a1e21);
+  background-image: -moz-linear-gradient(top, #072e47, #1a1e21);
+  background-image: -ms-linear-gradient(top, #072e47, #1a1e21);
+  background-image: -o-linear-gradient(top, #072e47, #1a1e21);
+  background-image: linear-gradient(to bottom, #072e47, #1a1e21);
+  text-decoration: none;
+}
+}
